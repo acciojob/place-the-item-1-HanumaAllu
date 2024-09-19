@@ -8,11 +8,9 @@
 	flex-wrap: wrap;
 	background-color: #282c34;
 	border-radius: 10px;
-	justify-content: space-evenly;
+	justify-content: space-between;
 }
 .item{
 	background-color: cyan;
-	padding: 10px;
-	margin: 10px;
 	border-radius: 10px;
 }
